@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "image": "/images/e-commerce-api-documentation.png",
+    "tag": "API · Backend",
+    "title": "E-commerce API Documentation",
+    "description": "Dynamic E-Commerce Workflow Management with real-time inventory updates, secure user authentication, and automated order reporting. Publicly documented via Postman."
+  },
+  {
+    "id": 2,
+    "image": "/images/course-booking-api-documentation.png",
+    "tag": "API · RESTful",
+    "title": "Course Booking API Documentation",
+    "description": "RESTful API for managing course enrollments — user registration, authentication, course creation, archiving, and student enrollment. Documented on Postman."
+  },
+  {
+    "id": 3,
+    "image": "/images/course-booking-app.png",
+    "tag": "MERN · Full Stack",
+    "title": "Course Booking App",
+    "description": "MERN-stack enrollment system with user registration, authentication, profile management, and seamless course browsing and enrollment capabilities."
+  },
+  {
+    "id": 4,
+    "image": "/images/e-commerce-app.png",
+    "tag": "MERN · E-commerce",
+    "title": "E-commerce App",
+    "description": "Full MERN e-commerce platform with dynamic catalog, real-time search, cart management, secure checkout, and an admin dashboard with live analytics."
+  },
+  {
+    "id": 5,
+    "image": "/images/arline-mockup.png",
+    "tag": "UI Design · Mockup",
+    "title": "Airline Booking System Mockup",
+    "description": "Conceptual UI design for flight search, seat selection, and booking confirmation — focused on intuitive user experience and workflow efficiency."
+  },
+  {
+    "id": 6,
+    "image": "/images/airline-prototype.png",
+    "tag": "Prototype · UX",
+    "title": "Airline Booking System Prototype",
+    "description": "Interactive prototype simulating end-to-end airline booking — flight search, reservation, payment processing, and real-time ticket management."
+  },
+  {
+    "id": 7,
+    "image": "/images/short-courses.png",
+    "tag": "Capstone · Full Stack",
+    "title": "Short Courses Capstone",
+    "description": "Capstone web platform for short course enrollment, integrating front-end design, backend logic, and database management into a cohesive experience."
+  }
+]

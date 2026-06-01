@@ -1,0 +1,54 @@
+{
+  "navbar": {
+    "brand": "JRM.",
+    "links": [
+      { "text": "Home", "href": "#landing", "active": true },
+      { "text": "Projects", "href": "#projects", "active": false },
+      { "text": "Tools", "href": "#tools", "active": false },
+      { "text": "Contact", "href": "#contact", "active": false }
+    ]
+  },
+  "hero": {
+    "tagLine": "Available for work",
+    "greeting": "Hello,",
+    "name": "Jerome.",
+    "role": "// Full Stack Web Developer",
+    "description": "Freelance developer passionate about building responsive, user-friendly, and visually engaging digital experiences. Clean code. Real impact.",
+    "ctaPrimary": "Say Hi!",
+    "ctaPrimaryHref": "#contact",
+    "ctaSecondary": "View Work",
+    "ctaSecondaryHref": "#projects",
+    "portraitImage": "/images/self-portrait.jpg",
+    "badgeYears": "1+",
+    "badgeText": "Years exp."
+  },
+  "projects": {
+    "label": "// Selected Work",
+    "title": "My Projects"
+  },
+  "tools": {
+    "label": "// Stack",
+    "title": "Tools & Technologies"
+  },
+  "contact": {
+    "label": "// Get in Touch",
+    "title": "Let's Work Together",
+    "subtitle": "Have a project in mind? Send me a message.",
+    "formFields": [
+      { "label": "Name", "type": "text", "placeholder": "John Doe", "id": "name" },
+      { "label": "Email address", "type": "email", "placeholder": "john.doe@email.com", "id": "email" },
+      { "label": "Message", "type": "textarea", "placeholder": "Tell me about your project...", "id": "message", "rows": 5 }
+    ],
+    "submitButtonText": "Send Message",
+    "socialLinks": [
+      { "platform": "github", "icon": "fa-brands fa-github", "href": "https://github.com/yourusername" },
+      { "platform": "linkedin", "icon": "fa-brands fa-linkedin", "href": "https://linkedin.com/in/yourusername" },
+      { "platform": "gitlab", "icon": "fa-brands fa-gitlab", "href": "https://gitlab.com/yourusername" }
+    ]
+  },
+  "footer": {
+    "name": "Jerome.",
+    "copyright": "© 2026 — All rights reserved.",
+    "tagline": "Built with passion & clean code."
+  }
+}
